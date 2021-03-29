@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">praktek1</string>
+
+    <string-array name="prodi">
+        <item>---PILIH---</item>
+        <item>Management Informatika</item>
+        <item>Teknologi Informasi</item>
+        <item>Ilmu Komunikasi</item>
+    </string-array>
+</resources>
